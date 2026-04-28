@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 
-url = "https://www.douyu.com/6770423"
+url = "https://www.douyu.com"
 
 # 1. 请求网页
 response = requests.get(url)
