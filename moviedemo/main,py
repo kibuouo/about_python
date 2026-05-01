@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import csv
+import pandas as pd
 def get_html(url):
     response=requests.get(url)
     return response.text
@@ -25,8 +26,13 @@ def savetocsv(movie_list,filename):
         writer.writeheader()
         writer.writerows(movie_list)
 if __name__=="__main__":
-    url="https://ssr1.scrape.center/"
-    html=get_html(url)
-    str=parser(html)
-    savetocsv(str,"movielist.csv")
-    print(str)
+    datas=[]
+    for page in range(1,11):
+        url=f"https://ssr1.scrape.center/page/{page}"
+        html=get_html(url)
+        data=parser(html)
+        datas.extend(data)
+        print("当前页数据量:", len(data))
+    savetocsv(datas,"movielist.csv")
+    df=pd.read_csv("movielist.csv")
+    print(df)
