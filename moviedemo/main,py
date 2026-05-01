@@ -1,5 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
+import csv
 def get_html(url):
     response=requests.get(url)
     return response.text
@@ -12,13 +13,20 @@ def parser(html):
         title_tag=item.find("h2")
         score_tag=item.find("p",class_="score")
         movie={
-            "title":title_tag,
-            "score":score_tag
+            "title":title_tag.text.strip(),
+            "score":score_tag.text.strip()
         }
         movie_list.append(movie)
     return movie_list
+
+def savetocsv(movie_list,filename):
+    with open(filename,"w",encoding="utf-8-sig",newline="") as f:
+        writer=csv.DictWriter(f,fieldnames=["title","score"])
+        writer.writeheader()
+        writer.writerows(movie_list)
 if __name__=="__main__":
     url="https://ssr1.scrape.center/"
     html=get_html(url)
     str=parser(html)
+    savetocsv(str,"movielist.csv")
     print(str)
