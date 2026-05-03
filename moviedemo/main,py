@@ -32,7 +32,6 @@ if __name__=="__main__":
         html=get_html(url)
         data=parser(html)
         datas.extend(data)
-        print("当前页数据量:", len(data))
     savetocsv(datas,"movielist.csv")
     df=pd.read_csv("movielist.csv")
     print(df)
