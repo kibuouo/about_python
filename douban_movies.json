@@ -1,510 +1,1902 @@
-{
-    "category": "热门",
-    "type": "全部",
-    "total": 397,
-    "items": [
-        {
-            "id": "37469599",
-            "title": "如果能成为恋人",
-            "pic": {
-                "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2924739992.jpg",
-                "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2924739992.jpg"
-            },
-            "rating": {
-                "count": 614,
-                "max": 10,
-                "star_count": 3.5,
-                "value": 7.0
-            },
-            "uri": "douban://douban.com/movie/37469599",
-            "card_subtitle": "2025 / 日本 / 剧情 爱情 / 山中瑶子 / 中田青渚 金子大地",
-            "is_new": false,
-            "episodes_info": "",
-            "type": "movie"
+[
+    {
+        "id": "37116612",
+        "title": "世界的主人",
+        "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2924183583.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2924183583.jpg"
         },
-        {
-            "id": "36362847",
-            "title": "海达",
-            "pic": {
-                "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2924522743.jpg",
-                "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2924522743.jpg"
-            },
-            "rating": {
-                "count": 968,
-                "max": 10,
-                "star_count": 3.0,
-                "value": 6.0
-            },
-            "uri": "douban://douban.com/movie/36362847",
-            "card_subtitle": "2025 / 美国 / 剧情 / 尼娅·达科斯塔 / 泰莎·汤普森 伊莫琴·普茨",
-            "is_new": false,
-            "episodes_info": "",
-            "type": "movie"
+        "rating": {
+            "count": 68179,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 9.2
         },
-        {
-            "id": "37384911",
-            "title": "极度召唤",
-            "pic": {
-                "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2922365242.jpg",
-                "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2922365242.jpg"
-            },
-            "rating": {
-                "count": 523,
-                "max": 10,
-                "star_count": 3.0,
-                "value": 5.6
-            },
-            "uri": "douban://douban.com/movie/37384911",
-            "card_subtitle": "2025 / 印度尼西亚 / 恐怖 / Hadrah Daeng Ratu / Mhd Arjunanta Djenar Maesa Ayu",
-            "is_new": false,
-            "episodes_info": "",
-            "type": "movie"
+        "uri": "douban://douban.com/movie/37116612",
+        "card_subtitle": "2025 / 韩国 / 剧情 / 尹佳恩 / 徐粹彬 张慧珍",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "36926954",
+        "title": "杀的就是你",
+        "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2928787017.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2928787017.jpg"
         },
-        {
-            "id": "37191804",
-            "title": "岸边露伴一动不动 忏悔室",
-            "pic": {
-                "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2919236923.jpg",
-                "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2919236923.jpg"
-            },
-            "rating": {
-                "count": 641,
-                "max": 10,
-                "star_count": 3.0,
-                "value": 6.2
-            },
-            "uri": "douban://douban.com/movie/37191804",
-            "card_subtitle": "2025 / 日本 / 剧情 恐怖 奇幻 / 渡边一贵 / 高桥一生 饭丰万理江",
-            "is_new": false,
-            "episodes_info": "",
-            "type": "movie"
+        "rating": {
+            "count": 11202,
+            "max": 10,
+            "star_count": 3.5,
+            "value": 7.0
         },
-        {
-            "id": "37226541",
-            "title": "ChaO，我代表人类跟人鱼结婚了",
-            "pic": {
-                "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2919740044.jpg",
-                "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2919740044.jpg"
-            },
-            "rating": {
-                "count": 441,
-                "max": 10,
-                "star_count": 3.0,
-                "value": 6.3
-            },
-            "uri": "douban://douban.com/movie/37226541",
-            "card_subtitle": "2025 / 日本 / 动画 / 青木康浩 / 铃鹿央士 山田杏奈",
-            "is_new": false,
-            "episodes_info": "",
-            "type": "movie"
+        "uri": "douban://douban.com/movie/36926954",
+        "card_subtitle": "2026 / 美国 / 喜剧 动作 恐怖 / 基里尔·索科洛夫 / 莎姬·贝兹 帕特丽夏·阿奎特",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "37427884",
+        "title": "我的麻烦室友",
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2931778918.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2931778918.jpg"
         },
-        {
-            "id": "36481311",
-            "title": "亡命父女",
-            "pic": {
-                "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2924716765.jpg",
-                "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2924716765.jpg"
-            },
-            "rating": {
-                "count": 916,
-                "max": 10,
-                "star_count": 3.0,
-                "value": 6.1
-            },
-            "uri": "douban://douban.com/movie/36481311",
-            "card_subtitle": "2025 / 美国 英国 / 剧情 惊悚 / 尼克·罗兰 / 塔伦·埃哲顿 安娜·索菲亚·海格尔",
-            "is_new": false,
-            "episodes_info": "",
-            "type": "movie"
+        "rating": {
+            "count": 335,
+            "max": 10,
+            "star_count": 3.0,
+            "value": 6.1
         },
-        {
-            "id": "37352648",
-            "title": "魔法坏女巫：奇幻之夜",
-            "pic": {
-                "large": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2929166541.jpg",
-                "normal": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2929166541.jpg"
-            },
-            "rating": {
-                "count": 316,
-                "max": 10,
-                "star_count": 4.5,
-                "value": 8.5
-            },
-            "uri": "douban://douban.com/movie/37352648",
-            "card_subtitle": "2025 / 美国 / 音乐 歌舞 / 保罗·达格代尔 凯恩·萨菲亚里 克里斯多夫·斯科特 / 辛西娅·埃里沃 爱莉安娜·格兰德",
-            "is_new": false,
-            "episodes_info": "",
-            "type": "movie"
+        "uri": "douban://douban.com/movie/37427884",
+        "card_subtitle": "2026 / 美国 / 喜剧 / 钱德勒·莱瓦科 / 莎蒂·桑德勒 克洛伊·伊斯特",
+        "is_new": true,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "36779303",
+        "title": "巅峰猎杀",
+        "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2931974717.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2931974717.jpg"
         },
-        {
-            "id": "37284414",
-            "title": "攻击鬼魂13号",
-            "pic": {
-                "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2926423666.jpg",
-                "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2926423666.jpg"
-            },
-            "rating": {
-                "count": 1423,
-                "max": 10,
-                "star_count": 3.0,
-                "value": 5.7
-            },
-            "uri": "douban://douban.com/movie/37284414",
-            "card_subtitle": "2025 / 泰国 / 惊悚 恐怖 / 塔韦华·温泰 / 格兰妮·拉素冰帕索尔 Veerinsara Tangkitsuvanich",
-            "is_new": false,
-            "episodes_info": "",
-            "type": "movie"
+        "rating": {
+            "count": 10128,
+            "max": 10,
+            "star_count": 3.0,
+            "value": 6.4
         },
-        {
-            "id": "37049749",
-            "title": "浴火之森",
-            "pic": {
-                "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2929999214.jpg",
-                "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2929999214.jpg"
-            },
-            "rating": {
-                "count": 390,
-                "max": 10,
-                "star_count": 3.0,
-                "value": 5.8
-            },
-            "uri": "douban://douban.com/movie/37049749",
-            "card_subtitle": "2026 / 西班牙 / 剧情 惊悚 / 大卫·维多利 / 贝伦·奎斯塔 戴安娜·戈麦斯",
-            "is_new": false,
-            "episodes_info": "",
-            "type": "movie"
+        "uri": "douban://douban.com/movie/36779303",
+        "card_subtitle": "2026 / 加拿大 澳大利亚 美国 冰岛 / 动作 惊悚 / 巴塔萨·科马库 / 查理兹·塞隆 塔伦·埃哲顿",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "37019075",
+        "title": "蒙特利尔，我的美人",
+        "pic": {
+            "large": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2926397741.jpg",
+            "normal": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2926397741.jpg"
         },
-        {
-            "id": "37113225",
-            "title": "代号巴德",
-            "pic": {
-                "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2923890323.jpg",
-                "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2923890323.jpg"
-            },
-            "rating": {
-                "count": 342,
-                "max": 10,
-                "star_count": 3.0,
-                "value": 5.9
-            },
-            "uri": "douban://douban.com/movie/37113225",
-            "card_subtitle": "2025 / 法国 / 动作 惊悚 / 纪尧姆·德·丰特奈 / 玛丽恩·瓦科特 埃马纽埃尔·贝克特",
-            "is_new": false,
-            "episodes_info": "",
-            "type": "movie"
+        "rating": {
+            "count": 8120,
+            "max": 10,
+            "star_count": 4.0,
+            "value": 7.6
         },
-        {
-            "id": "36171174",
-            "title": "烧酒战争",
-            "pic": {
-                "large": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2921597171.jpg",
-                "normal": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2921597171.jpg"
-            },
-            "rating": {
-                "count": 937,
-                "max": 10,
-                "star_count": 3.0,
-                "value": 6.3
-            },
-            "uri": "douban://douban.com/movie/36171174",
-            "card_subtitle": "2025 / 美国 韩国 / 剧情 传记 / 崔昀贞 / 文峰 李帝勋",
-            "is_new": false,
-            "episodes_info": "",
-            "type": "movie"
+        "uri": "douban://douban.com/movie/37019075",
+        "card_subtitle": "2025 / 法国 加拿大 / 剧情 同性 / 和晓丹 / 陈冲 夏洛特·奥宾",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "36978169",
+        "title": "与王生活的男人",
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2928835899.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2928835899.jpg"
         },
-        {
-            "id": "36171159",
-            "title": "杀婴者",
-            "pic": {
-                "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2923390642.jpg",
-                "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2923390642.jpg"
-            },
-            "rating": {
-                "count": 978,
-                "max": 10,
-                "star_count": 3.0,
-                "value": 6.3
-            },
-            "uri": "douban://douban.com/movie/36171159",
-            "card_subtitle": "2025 / 韩国 / 动作 / 庾河 / 知英 李起光",
-            "is_new": false,
-            "episodes_info": "",
-            "type": "movie"
+        "rating": {
+            "count": 3789,
+            "max": 10,
+            "star_count": 4.0,
+            "value": 7.5
         },
-        {
-            "id": "36772307",
-            "title": "冰湖行动",
-            "pic": {
-                "large": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2926896501.jpg",
-                "normal": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2926896501.jpg"
-            },
-            "rating": {
-                "count": 785,
-                "max": 10,
-                "star_count": 3.0,
-                "value": 5.6
-            },
-            "uri": "douban://douban.com/movie/36772307",
-            "card_subtitle": "2025 / 美国 / 惊悚 犯罪 / 斯戴芬·卢佐维茨基 / 乔尔·金纳曼 卡拉·杰德·迈尔斯",
-            "is_new": false,
-            "episodes_info": "",
-            "type": "movie"
+        "uri": "douban://douban.com/movie/36978169",
+        "card_subtitle": "2026 / 韩国 / 剧情 历史 / 张抗俊 / 柳海真 朴志训",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "36413501",
+        "title": "情感价值",
+        "pic": {
+            "large": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2931602981.jpg",
+            "normal": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2931602981.jpg"
         },
-        {
-            "id": "36948340",
-            "title": "通往你的地图",
-            "pic": {
-                "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2924638133.jpg",
-                "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2924638133.jpg"
-            },
-            "rating": {
-                "count": 875,
-                "max": 10,
-                "star_count": 3.0,
-                "value": 6.1
-            },
-            "uri": "douban://douban.com/movie/36948340",
-            "card_subtitle": "2025 / 美国 / 剧情 爱情 / 拉斯·霍尔斯道姆 / 玛德琳·克莱因 乔什·卢卡斯",
-            "is_new": false,
-            "episodes_info": "",
-            "type": "movie"
+        "rating": {
+            "count": 42232,
+            "max": 10,
+            "star_count": 4.0,
+            "value": 7.6
         },
-        {
-            "id": "36707368",
-            "title": "罪证子弹3",
-            "pic": {
-                "large": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2921269101.jpg",
-                "normal": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2921269101.jpg"
-            },
-            "rating": {
-                "count": 1235,
-                "max": 10,
-                "star_count": 3.5,
-                "value": 6.5
-            },
-            "uri": "douban://douban.com/movie/36707368",
-            "card_subtitle": "2025 / 法国 / 剧情 动作 惊悚 犯罪 / 纪尧姆·皮埃雷 / 奥尔本·勒努瓦 施特菲·塞尔马",
-            "is_new": false,
-            "episodes_info": "",
-            "type": "movie"
+        "uri": "douban://douban.com/movie/36413501",
+        "card_subtitle": "2025 / 挪威 德国 丹麦 法国 瑞典 英国 / 剧情 / 约阿希姆·提尔 / 雷娜特·赖因斯夫 斯特兰·斯卡斯加德",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "37311135",
+        "title": "飞驰人生3",
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2929427346.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2929427346.jpg"
         },
-        {
-            "id": "36894397",
-            "title": "黄沙漫天",
-            "pic": {
-                "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2921931289.jpg",
-                "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2921931289.jpg"
-            },
-            "rating": {
-                "count": 5153,
-                "max": 10,
-                "star_count": 3.0,
-                "value": 6.0
-            },
-            "uri": "douban://douban.com/movie/36894397",
-            "card_subtitle": "2025 / 中国大陆 / 喜剧 战争 / 伊力奇 / 小沈阳 周大勇",
-            "is_new": false,
-            "episodes_info": "",
-            "type": "movie"
+        "rating": {
+            "count": 410802,
+            "max": 10,
+            "star_count": 3.5,
+            "value": 7.3
         },
-        {
-            "id": "35882074",
-            "title": "冲·撞",
-            "pic": {
-                "large": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2921312281.jpg",
-                "normal": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2921312281.jpg"
-            },
-            "rating": {
-                "count": 4949,
-                "max": 10,
-                "star_count": 3.0,
-                "value": 6.2
-            },
-            "uri": "douban://douban.com/movie/35882074",
-            "card_subtitle": "2025 / 中国大陆 / 喜剧 动作 / 蒋佳辰 / 李九霄 王千源",
-            "is_new": false,
-            "episodes_info": "",
-            "type": "movie"
-        }
-    ],
-    "tags": [
-        {
-            "title": "热门电影",
-            "category": "热门",
-            "selected": true,
-            "types": [
-                {
-                    "title": "全部",
-                    "type": "全部",
-                    "selected": true
-                },
-                {
-                    "title": "华语",
-                    "type": "华语",
-                    "selected": false
-                },
-                {
-                    "title": "欧美",
-                    "type": "欧美",
-                    "selected": false
-                },
-                {
-                    "title": "韩国",
-                    "type": "韩国",
-                    "selected": false
-                },
-                {
-                    "title": "日本",
-                    "type": "日本",
-                    "selected": false
-                }
-            ]
+        "uri": "douban://douban.com/movie/37311135",
+        "card_subtitle": "2026 / 中国大陆 / 剧情 喜剧 运动 / 韩寒 / 沈腾 尹正",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "36219411",
+        "title": "像我这样的爱情",
+        "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2927181307.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2927181307.jpg"
         },
-        {
-            "title": "最新电影",
-            "category": "最新",
-            "selected": false,
-            "types": [
-                {
-                    "title": "全部",
-                    "type": "全部",
-                    "selected": false
-                },
-                {
-                    "title": "华语",
-                    "type": "华语",
-                    "selected": false
-                },
-                {
-                    "title": "欧美",
-                    "type": "欧美",
-                    "selected": false
-                },
-                {
-                    "title": "韩国",
-                    "type": "韩国",
-                    "selected": false
-                },
-                {
-                    "title": "日本",
-                    "type": "日本",
-                    "selected": false
-                }
-            ]
+        "rating": {
+            "count": 4521,
+            "max": 10,
+            "star_count": 3.5,
+            "value": 7.1
         },
-        {
-            "title": "豆瓣高分",
-            "category": "豆瓣高分",
-            "selected": false,
-            "types": [
-                {
-                    "title": "全部",
-                    "type": "全部",
-                    "selected": false
-                },
-                {
-                    "title": "华语",
-                    "type": "华语",
-                    "selected": false
-                },
-                {
-                    "title": "欧美",
-                    "type": "欧美",
-                    "selected": false
-                },
-                {
-                    "title": "韩国",
-                    "type": "韩国",
-                    "selected": false
-                },
-                {
-                    "title": "日本",
-                    "type": "日本",
-                    "selected": false
-                }
-            ]
+        "uri": "douban://douban.com/movie/36219411",
+        "card_subtitle": "2025 / 中国香港 / 剧情 爱情 / 谭惠贞 / 廖子妤 陈家乐",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "36909312",
+        "title": "翠湖",
+        "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2930745012.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2930745012.jpg"
         },
-        {
-            "title": "冷门佳片",
-            "category": "冷门佳片",
-            "selected": false,
-            "types": [
-                {
-                    "title": "全部",
-                    "type": "全部",
-                    "selected": false
-                },
-                {
-                    "title": "华语",
-                    "type": "华语",
-                    "selected": false
-                },
-                {
-                    "title": "欧美",
-                    "type": "欧美",
-                    "selected": false
-                },
-                {
-                    "title": "韩国",
-                    "type": "韩国",
-                    "selected": false
-                },
-                {
-                    "title": "日本",
-                    "type": "日本",
-                    "selected": false
-                }
-            ]
-        }
-    ],
-    "recommend_tags": [
-        {
-            "title": "热门",
-            "category": "热门",
-            "type": "全部",
-            "selected": true
+        "rating": {
+            "count": 16155,
+            "max": 10,
+            "star_count": 4.0,
+            "value": 7.8
         },
-        {
-            "title": "最新",
-            "category": "最新",
-            "type": "全部",
-            "selected": false
+        "uri": "douban://douban.com/movie/36909312",
+        "card_subtitle": "2025 / 中国大陆 / 剧情 / 王籽璇 / 李振平 王娟",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "36832900",
+        "title": "准备好了没2：我来了",
+        "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2929654337.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2929654337.jpg"
         },
-        {
-            "title": "豆瓣高分",
-            "category": "豆瓣高分",
-            "type": "全部",
-            "selected": false
+        "rating": {
+            "count": 10721,
+            "max": 10,
+            "star_count": 3.0,
+            "value": 6.0
         },
-        {
-            "title": "冷门佳片",
-            "category": "冷门佳片",
-            "type": "全部",
-            "selected": false
+        "uri": "douban://douban.com/movie/36832900",
+        "card_subtitle": "2026 / 美国 加拿大 / 喜剧 惊悚 恐怖 / 泰勒·吉勒特 马特·贝蒂内利-奥尔平 / 萨玛拉·维文 凯瑟琳·纽顿",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "26022233",
+        "title": "蜂蜜的针",
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2930744969.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2930744969.jpg"
         },
-        {
-            "title": "华语",
-            "category": "热门",
-            "type": "华语",
-            "selected": false
+        "rating": {
+            "count": 29969,
+            "max": 10,
+            "star_count": 3.5,
+            "value": 7.1
         },
-        {
-            "title": "欧美",
-            "category": "热门",
-            "type": "欧美",
-            "selected": false
+        "uri": "douban://douban.com/movie/26022233",
+        "card_subtitle": "2026 / 中国大陆 / 爱情 悬疑 犯罪 / 袁梅 / 袁泉 耿乐",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "34864022",
+        "title": "请求救援",
+        "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2928975987.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2928975987.jpg"
         },
-        {
-            "title": "韩国",
-            "category": "热门",
-            "type": "韩国",
-            "selected": false
+        "rating": {
+            "count": 23757,
+            "max": 10,
+            "star_count": 3.5,
+            "value": 6.7
         },
-        {
-            "title": "日本",
-            "category": "热门",
-            "type": "日本",
-            "selected": false
-        }
-    ]
-}
+        "uri": "douban://douban.com/movie/34864022",
+        "card_subtitle": "2026 / 美国 加拿大 英国 澳大利亚 泰国 / 惊悚 恐怖 冒险 / 山姆·雷米 / 瑞秋·麦克亚当斯 迪伦·奥布莱恩",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "36697078",
+        "title": "密探",
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2930979680.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2930979680.jpg"
+        },
+        "rating": {
+            "count": 25107,
+            "max": 10,
+            "star_count": 4.0,
+            "value": 7.8
+        },
+        "uri": "douban://douban.com/movie/36697078",
+        "card_subtitle": "2025 / 巴西 法国 荷兰 德国 / 剧情 悬疑 惊悚 犯罪 / 小克莱伯·门多萨 / 瓦格纳·马拉 乌多·基尔",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "36999793",
+        "title": "河狸变身计划",
+        "pic": {
+            "large": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2929759261.jpg",
+            "normal": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2929759261.jpg"
+        },
+        "rating": {
+            "count": 91908,
+            "max": 10,
+            "star_count": 4.0,
+            "value": 7.5
+        },
+        "uri": "douban://douban.com/movie/36999793",
+        "card_subtitle": "2026 / 美国 / 喜剧 科幻 动画 / 丹尼尔·钟 / 佩珀·柯达 鲍比·莫尼汉",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "37077505",
+        "title": "爆弹",
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2923847565.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2923847565.jpg"
+        },
+        "rating": {
+            "count": 5500,
+            "max": 10,
+            "star_count": 3.5,
+            "value": 7.3
+        },
+        "uri": "douban://douban.com/movie/37077505",
+        "card_subtitle": "2025 / 日本 / 悬疑 犯罪 / 永井聪 / 山田裕贵 佐藤二朗",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "36963690",
+        "title": "呼啸山庄",
+        "pic": {
+            "large": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2930238411.jpg",
+            "normal": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2930238411.jpg"
+        },
+        "rating": {
+            "count": 91254,
+            "max": 10,
+            "star_count": 3.0,
+            "value": 6.2
+        },
+        "uri": "douban://douban.com/movie/36963690",
+        "card_subtitle": "2026 / 英国 美国 / 剧情 爱情 / 埃默拉尔德·芬内尔 / 玛格特·罗比 雅各布·艾洛蒂",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "37284351",
+        "title": "局外人",
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2924647736.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2924647736.jpg"
+        },
+        "rating": {
+            "count": 7177,
+            "max": 10,
+            "star_count": 3.5,
+            "value": 7.3
+        },
+        "uri": "douban://douban.com/movie/37284351",
+        "card_subtitle": "2025 / 法国 / 剧情 犯罪 / 弗朗索瓦·欧容 / 本杰明·瓦赞 丽贝卡·马德",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "37312482",
+        "title": "爱上平行时空的你",
+        "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2926958102.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2926958102.jpg"
+        },
+        "rating": {
+            "count": 12109,
+            "max": 10,
+            "star_count": 4.0,
+            "value": 8.1
+        },
+        "uri": "douban://douban.com/movie/37312482",
+        "card_subtitle": "2025 / 俄罗斯 / 剧情 喜剧 爱情 奇幻 / 达里娅·列别杰娃 / 米拉·埃尔绍娃 尤里·纳索诺夫",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "37066724",
+        "title": "他年她日",
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2928151600.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2928151600.jpg"
+        },
+        "rating": {
+            "count": 6176,
+            "max": 10,
+            "star_count": 4.0,
+            "value": 7.5
+        },
+        "uri": "douban://douban.com/movie/37066724",
+        "card_subtitle": "2025 / 中国香港 中国台湾 / 爱情 奇幻 / 龚兆平 / 许光汉 袁澧林",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "36486147",
+        "title": "总统的蛋糕",
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2925299655.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2925299655.jpg"
+        },
+        "rating": {
+            "count": 4246,
+            "max": 10,
+            "star_count": 4.0,
+            "value": 7.9
+        },
+        "uri": "douban://douban.com/movie/36486147",
+        "card_subtitle": "2025 / 伊拉克 美国 卡塔尔 / 剧情 / 哈桑·哈迪 / Baneen Ahmad Nayyef Waheed Thabet Khreibat",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "37211128",
+        "title": "熊猫计划之部落奇遇记",
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2929984579.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2929984579.jpg"
+        },
+        "rating": {
+            "count": 26398,
+            "max": 10,
+            "star_count": 2.5,
+            "value": 5.4
+        },
+        "uri": "douban://douban.com/movie/37211128",
+        "card_subtitle": "2026 / 中国大陆 / 喜剧 奇幻 / 许宏宇 / 成龙 马丽",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "37049323",
+        "title": "秒速5厘米",
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2924245935.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2924245935.jpg"
+        },
+        "rating": {
+            "count": 2786,
+            "max": 10,
+            "star_count": 3.5,
+            "value": 7.4
+        },
+        "uri": "douban://douban.com/movie/37049323",
+        "card_subtitle": "2025 / 日本 / 剧情 爱情 / 奥山由之 / 松村北斗 高畑充希",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "35618471",
+        "title": "哈姆奈特",
+        "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2925997737.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2925997737.jpg"
+        },
+        "rating": {
+            "count": 53261,
+            "max": 10,
+            "star_count": 4.0,
+            "value": 7.8
+        },
+        "uri": "douban://douban.com/movie/35618471",
+        "card_subtitle": "2025 / 英国 美国 / 剧情 爱情 传记 历史 / 赵婷 / 杰西·巴克利 保罗·麦斯卡",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "36883105",
+        "title": "星河入梦",
+        "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2929616093.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2929616093.jpg"
+        },
+        "rating": {
+            "count": 105814,
+            "max": 10,
+            "star_count": 3.5,
+            "value": 6.9
+        },
+        "uri": "douban://douban.com/movie/36883105",
+        "card_subtitle": "2026 / 中国大陆 中国香港 / 科幻 奇幻 冒险 / 韩延 / 王鹤棣 宋茜",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "36539452",
+        "title": "拼桌",
+        "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2930539333.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2930539333.jpg"
+        },
+        "rating": {
+            "count": 21923,
+            "max": 10,
+            "star_count": 3.0,
+            "value": 6.2
+        },
+        "uri": "douban://douban.com/movie/36539452",
+        "card_subtitle": "2026 / 中国大陆 / 喜剧 爱情 / 吴靖 / 王传君 江疏影",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "37213104",
+        "title": "东京出租车",
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2924658739.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2924658739.jpg"
+        },
+        "rating": {
+            "count": 17001,
+            "max": 10,
+            "star_count": 4.0,
+            "value": 8.0
+        },
+        "uri": "douban://douban.com/movie/37213104",
+        "card_subtitle": "2025 / 日本 / 剧情 / 山田洋次 / 倍赏千惠子 木村拓哉",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "37227650",
+        "title": "旅途中的日子",
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2923212186.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2923212186.jpg"
+        },
+        "rating": {
+            "count": 6913,
+            "max": 10,
+            "star_count": 3.5,
+            "value": 7.1
+        },
+        "uri": "douban://douban.com/movie/37227650",
+        "card_subtitle": "2025 / 日本 / 剧情 / 三宅唱 / 沈恩敬 堤真一",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "37233382",
+        "title": "三声再见",
+        "pic": {
+            "large": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2924997721.jpg",
+            "normal": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2924997721.jpg"
+        },
+        "rating": {
+            "count": 1170,
+            "max": 10,
+            "star_count": 4.0,
+            "value": 8.0
+        },
+        "uri": "douban://douban.com/movie/37233382",
+        "card_subtitle": "2025 / 意大利 西班牙 / 剧情 / 伊莎贝尔·科赛特 / 阿尔芭·罗尔瓦赫尔 埃利奥·杰曼诺",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "37474018",
+        "title": "泥娃娃",
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2931424936.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2931424936.jpg"
+        },
+        "rating": {
+            "count": 6965,
+            "max": 10,
+            "star_count": 3.0,
+            "value": 5.7
+        },
+        "uri": "douban://douban.com/movie/37474018",
+        "card_subtitle": "2025 / 中国台湾 / 惊悚 恐怖 / 解孟儒 / 杨祐宁 蔡思韵",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "30382501",
+        "title": "浴血黑帮：不朽传奇",
+        "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2928174437.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2928174437.jpg"
+        },
+        "rating": {
+            "count": 13677,
+            "max": 10,
+            "star_count": 3.5,
+            "value": 6.5
+        },
+        "uri": "douban://douban.com/movie/30382501",
+        "card_subtitle": "2026 / 英国 法国 美国 / 剧情 历史 犯罪 / 汤姆·哈伯 / 基里安·墨菲 丽贝卡·弗格森",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "37144851",
+        "title": "137号案件",
+        "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2921549477.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2921549477.jpg"
+        },
+        "rating": {
+            "count": 4745,
+            "max": 10,
+            "star_count": 4.0,
+            "value": 7.7
+        },
+        "uri": "douban://douban.com/movie/37144851",
+        "card_subtitle": "2025 / 法国 / 剧情 犯罪 / 多米尼克·摩尔 / 蕾雅·德吕盖 帕斯卡·桑格拉",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "36176155",
+        "title": "一战再战",
+        "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2925146362.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2925146362.jpg"
+        },
+        "rating": {
+            "count": 244679,
+            "max": 10,
+            "star_count": 4.0,
+            "value": 8.0
+        },
+        "uri": "douban://douban.com/movie/36176155",
+        "card_subtitle": "2025 / 美国 / 剧情 动作 惊悚 犯罪 / 保罗·托马斯·安德森 / 莱昂纳多·迪卡普里奥 西恩·潘",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "36367195",
+        "title": "家弑服务",
+        "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2927067582.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2927067582.jpg"
+        },
+        "rating": {
+            "count": 73593,
+            "max": 10,
+            "star_count": 3.5,
+            "value": 7.1
+        },
+        "uri": "douban://douban.com/movie/36367195",
+        "card_subtitle": "2025 / 美国 / 剧情 悬疑 惊悚 / 保罗·费格 / 西德尼·斯维尼 阿曼达·塞弗里德",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "35409362",
+        "title": "接近终点",
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2921262200.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2921262200.jpg"
+        },
+        "rating": {
+            "count": 16938,
+            "max": 10,
+            "star_count": 3.5,
+            "value": 7.4
+        },
+        "uri": "douban://douban.com/movie/35409362",
+        "card_subtitle": "2025 / 法国 西班牙 / 剧情 惊悚 冒险 / 奥利维尔·拉克谢 / 塞尔希·洛佩斯 布鲁诺·努涅斯",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "26817136",
+        "title": "疯狂动物城2",
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2926605350.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2926605350.jpg"
+        },
+        "rating": {
+            "count": 774459,
+            "max": 10,
+            "star_count": 4.0,
+            "value": 8.3
+        },
+        "uri": "douban://douban.com/movie/26817136",
+        "card_subtitle": "2025 / 美国 / 喜剧 动画 悬疑 犯罪 冒险 / 杰拉德·布什 拜伦·霍华德 / 金妮弗·古德温 杰森·贝特曼",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "36691620",
+        "title": "至尊马蒂",
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2930616856.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2930616856.jpg"
+        },
+        "rating": {
+            "count": 38855,
+            "max": 10,
+            "star_count": 3.5,
+            "value": 7.3
+        },
+        "uri": "douban://douban.com/movie/36691620",
+        "card_subtitle": "2025 / 芬兰 美国 / 剧情 运动 / 乔什·萨弗迪 / 提莫西·查拉梅 格温妮斯·帕特洛",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "26404869",
+        "title": "惊天魔盗团3",
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2926399098.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2926399098.jpg"
+        },
+        "rating": {
+            "count": 133027,
+            "max": 10,
+            "star_count": 3.0,
+            "value": 5.7
+        },
+        "uri": "douban://douban.com/movie/26404869",
+        "card_subtitle": "2025 / 美国 / 剧情 动作 犯罪 / 鲁本·弗雷斯彻 / 杰西·艾森伯格 伍迪·哈里森",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "36986482",
+        "title": "女孩",
+        "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2926252007.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2926252007.jpg"
+        },
+        "rating": {
+            "count": 35499,
+            "max": 10,
+            "star_count": 3.5,
+            "value": 7.2
+        },
+        "uri": "douban://douban.com/movie/36986482",
+        "card_subtitle": "2025 / 中国台湾 中国大陆 / 剧情 / 舒淇 / 邱泽 汤毓绮",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "37335090",
+        "title": "追恶",
+        "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2931405407.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2931405407.jpg"
+        },
+        "rating": {
+            "count": 7326,
+            "max": 10,
+            "star_count": 3.0,
+            "value": 6.0
+        },
+        "uri": "douban://douban.com/movie/37335090",
+        "card_subtitle": "2026 / 中国大陆 / 动作 犯罪 / 成思毅 / 释小龙 王真儿",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "36394612",
+        "title": "你好，爱美丽",
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2930342320.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2930342320.jpg"
+        },
+        "rating": {
+            "count": 15583,
+            "max": 10,
+            "star_count": 4.0,
+            "value": 8.1
+        },
+        "uri": "douban://douban.com/movie/36394612",
+        "card_subtitle": "2025 / 法国 比利时 / 动画 家庭 / 迈利斯·瓦拉德 韩良畴 / 洛伊斯·夏庞蒂埃 维多利亚·格罗布瓦",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "4092781",
+        "title": "无可奈何",
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2925885108.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2925885108.jpg"
+        },
+        "rating": {
+            "count": 72752,
+            "max": 10,
+            "star_count": 3.5,
+            "value": 7.3
+        },
+        "uri": "douban://douban.com/movie/4092781",
+        "card_subtitle": "2025 / 韩国 / 剧情 喜剧 惊悚 犯罪 / 朴赞郁 / 李炳宪 孙艺珍",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "3262044",
+        "title": "弗兰肯斯坦",
+        "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2924465357.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2924465357.jpg"
+        },
+        "rating": {
+            "count": 66166,
+            "max": 10,
+            "star_count": 3.5,
+            "value": 7.4
+        },
+        "uri": "douban://douban.com/movie/3262044",
+        "card_subtitle": "2025 / 墨西哥 美国 / 剧情 科幻 恐怖 奇幻 / 吉尔莫·德尔·托罗 / 奥斯卡·伊萨克 雅各布·艾洛蒂",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "34850525",
+        "title": "96分钟：列车爆炸案",
+        "pic": {
+            "large": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2928560201.jpg",
+            "normal": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2928560201.jpg"
+        },
+        "rating": {
+            "count": 25256,
+            "max": 10,
+            "star_count": 3.5,
+            "value": 6.9
+        },
+        "uri": "douban://douban.com/movie/34850525",
+        "card_subtitle": "2025 / 中国台湾 / 剧情 动作 犯罪 / 洪子烜 / 林柏宏 宋芸桦",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "35064920",
+        "title": "拯救地球",
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2924712669.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2924712669.jpg"
+        },
+        "rating": {
+            "count": 27918,
+            "max": 10,
+            "star_count": 3.5,
+            "value": 7.1
+        },
+        "uri": "douban://douban.com/movie/35064920",
+        "card_subtitle": "2025 / 爱尔兰 英国 加拿大 韩国 美国 / 喜剧 科幻 犯罪 / 欧格斯·兰斯莫斯 / 艾玛·斯通 杰西·普莱蒙",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "37296908",
+        "title": "非传统浪漫关系",
+        "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2928951663.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2928951663.jpg"
+        },
+        "rating": {
+            "count": 14637,
+            "max": 10,
+            "star_count": 3.0,
+            "value": 5.8
+        },
+        "uri": "douban://douban.com/movie/37296908",
+        "card_subtitle": "2026 / 中国大陆 / 剧情 喜剧 爱情 / 梁文哲 / 朱颜曼滋 任彬",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "37247238",
+        "title": "普通事故",
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2924199668.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2924199668.jpg"
+        },
+        "rating": {
+            "count": 23748,
+            "max": 10,
+            "star_count": 3.5,
+            "value": 7.4
+        },
+        "uri": "douban://douban.com/movie/37247238",
+        "card_subtitle": "2025 / 伊朗 法国 卢森堡 美国 / 剧情 悬疑 惊悚 犯罪 / 贾法·帕纳西 / 瓦希德·穆巴谢里 玛丽亚姆·阿夫沙里",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "26351864",
+        "title": "风林火山",
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2925142654.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2925142654.jpg"
+        },
+        "rating": {
+            "count": 78769,
+            "max": 10,
+            "star_count": 3.0,
+            "value": 6.4
+        },
+        "uri": "douban://douban.com/movie/26351864",
+        "card_subtitle": "2025 / 中国香港 中国大陆 / 剧情 犯罪 / 麦浚龙 / 金城武 刘青云",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "35700339",
+        "title": "飞行家",
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2928725889.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2928725889.jpg"
+        },
+        "rating": {
+            "count": 59110,
+            "max": 10,
+            "star_count": 3.5,
+            "value": 7.2
+        },
+        "uri": "douban://douban.com/movie/35700339",
+        "card_subtitle": "2025 / 中国大陆 / 剧情 喜剧 / 鹏飞 / 蒋奇明 李雪琴",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "36901008",
+        "title": "洛杉矶劫案",
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2929956678.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2929956678.jpg"
+        },
+        "rating": {
+            "count": 33847,
+            "max": 10,
+            "star_count": 3.5,
+            "value": 6.6
+        },
+        "uri": "douban://douban.com/movie/36901008",
+        "card_subtitle": "2026 / 美国 英国 / 剧情 动作 犯罪 / 巴特·雷顿 / 克里斯·海姆斯沃斯 马克·鲁法洛",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "36909418",
+        "title": "凶降喜讯",
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2924619440.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2924619440.jpg"
+        },
+        "rating": {
+            "count": 34165,
+            "max": 10,
+            "star_count": 4.0,
+            "value": 7.7
+        },
+        "uri": "douban://douban.com/movie/36909418",
+        "card_subtitle": "2025 / 韩国 / 喜剧 惊悚 犯罪 / 卞成贤 / 薛景求 红炅",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "35419153",
+        "title": "利刃出鞘3",
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2924862475.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2924862475.jpg"
+        },
+        "rating": {
+            "count": 106968,
+            "max": 10,
+            "star_count": 4.0,
+            "value": 7.6
+        },
+        "uri": "douban://douban.com/movie/35419153",
+        "card_subtitle": "2025 / 美国 / 剧情 喜剧 悬疑 惊悚 犯罪 / 莱恩·约翰逊 / 丹尼尔·克雷格 乔什·奥康纳",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "36207047",
+        "title": "诗人",
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2926925870.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2926925870.jpg"
+        },
+        "rating": {
+            "count": 5722,
+            "max": 10,
+            "star_count": 4.0,
+            "value": 8.1
+        },
+        "uri": "douban://douban.com/movie/36207047",
+        "card_subtitle": "2025 / 哥伦比亚 德国 瑞典 / 剧情 喜剧 / 西蒙·梅萨·索托 / 乌贝马尔·里奥斯 蕾韦卡·安德拉德",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "36767956",
+        "title": "你行！你上！",
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2923595906.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2923595906.jpg"
+        },
+        "rating": {
+            "count": 133645,
+            "max": 10,
+            "star_count": 3.5,
+            "value": 6.7
+        },
+        "uri": "douban://douban.com/movie/36767956",
+        "card_subtitle": "2025 / 中国大陆 / 剧情 喜剧 / 姜文 / 姜文 马丽",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "36238726",
+        "title": "索命舞娘",
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2931022629.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2931022629.jpg"
+        },
+        "rating": {
+            "count": 5490,
+            "max": 10,
+            "star_count": 3.0,
+            "value": 6.4
+        },
+        "uri": "douban://douban.com/movie/36238726",
+        "card_subtitle": "2026 / 英国 美国 匈牙利 / 动作 惊悚 恐怖 / 维姬·朱森 / 麦迪·齐格勒 拉娜·康多",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "35358792",
+        "title": "马腾你别走",
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2927571605.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2927571605.jpg"
+        },
+        "rating": {
+            "count": 21074,
+            "max": 10,
+            "star_count": 3.5,
+            "value": 7.0
+        },
+        "uri": "douban://douban.com/movie/35358792",
+        "card_subtitle": "2025 / 中国大陆 / 剧情 喜剧 / 岳洋 / 林更新 李幼斌",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "35930441",
+        "title": "后来的我们",
+        "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2928835902.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2928835902.jpg"
+        },
+        "rating": {
+            "count": 4278,
+            "max": 10,
+            "star_count": 3.5,
+            "value": 7.3
+        },
+        "uri": "douban://douban.com/movie/35930441",
+        "card_subtitle": "2025 / 韩国 / 剧情 爱情 / 金度英 / 具教焕 文佳煐",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "37178027",
+        "title": "8号出口",
+        "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2927027583.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2927027583.jpg"
+        },
+        "rating": {
+            "count": 25537,
+            "max": 10,
+            "star_count": 3.0,
+            "value": 6.3
+        },
+        "uri": "douban://douban.com/movie/37178027",
+        "card_subtitle": "2025 / 日本 / 恐怖 冒险 / 川村元气 / 二宫和也 河内大和",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "37202778",
+        "title": "桑格豪森的渴望",
+        "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2926280113.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2926280113.jpg"
+        },
+        "rating": {
+            "count": 642,
+            "max": 10,
+            "star_count": 3.5,
+            "value": 7.4
+        },
+        "uri": "douban://douban.com/movie/37202778",
+        "card_subtitle": "2025 / 德国 / 剧情 喜剧 / 尤利安·拉德迈耶 / 克拉拉·施温宁 马瑞尔·凯沙瓦茨",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "36899331",
+        "title": "危情蜻蜓",
+        "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2926207407.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2926207407.jpg"
+        },
+        "rating": {
+            "count": 1615,
+            "max": 10,
+            "star_count": 3.5,
+            "value": 7.4
+        },
+        "uri": "douban://douban.com/movie/36899331",
+        "card_subtitle": "2025 / 英国 / 剧情 惊悚 / 保罗·安德鲁·威廉姆斯 / 安德丽娅·赖斯伯勒 布兰达·布莱斯",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "36749573",
+        "title": "极限审判",
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2929006010.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2929006010.jpg"
+        },
+        "rating": {
+            "count": 89075,
+            "max": 10,
+            "star_count": 3.5,
+            "value": 7.2
+        },
+        "uri": "douban://douban.com/movie/36749573",
+        "card_subtitle": "2026 / 美国 / 动作 科幻 悬疑 / 提莫·贝克曼贝托夫 / 克里斯·帕拉特 丽贝卡·弗格森",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "37106646",
+        "title": "保护者",
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2929488698.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2929488698.jpg"
+        },
+        "rating": {
+            "count": 1320,
+            "max": 10,
+            "star_count": 3.0,
+            "value": 6.2
+        },
+        "uri": "douban://douban.com/movie/37106646",
+        "card_subtitle": "2025 / 美国 / 动作 惊悚 / 阿德里安·格鲁伯格 / 米拉·乔沃维奇 马修·莫迪恩",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "5348089",
+        "title": "阿凡达：火与烬",
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2925983114.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2925983114.jpg"
+        },
+        "rating": {
+            "count": 269701,
+            "max": 10,
+            "star_count": 4.0,
+            "value": 7.6
+        },
+        "uri": "douban://douban.com/movie/5348089",
+        "card_subtitle": "2025 / 美国 / 动作 科幻 惊悚 奇幻 冒险 / 詹姆斯·卡梅隆 / 萨姆·沃辛顿 佐伊·索尔达娜",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "36919136",
+        "title": "爱的证明",
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2930560624.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2930560624.jpg"
+        },
+        "rating": {
+            "count": 6088,
+            "max": 10,
+            "star_count": 4.0,
+            "value": 8.1
+        },
+        "uri": "douban://douban.com/movie/36919136",
+        "card_subtitle": "2025 / 法国 / 剧情 喜剧 同性 / 艾丽斯·杜阿尔 / 艾拉·朗夫 莫妮亚·乔柯里",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "35689244",
+        "title": "F1：狂飙飞车",
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2922238175.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2922238175.jpg"
+        },
+        "rating": {
+            "count": 520935,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.7
+        },
+        "uri": "douban://douban.com/movie/35689244",
+        "card_subtitle": "2025 / 美国 / 剧情 动作 运动 / 约瑟夫·科辛斯基 / 布拉德·皮特 戴姆森·伊德瑞斯",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "37825206",
+        "title": "超时空辉夜姬！",
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2928772586.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2928772586.jpg"
+        },
+        "rating": {
+            "count": 22970,
+            "max": 10,
+            "star_count": 4.0,
+            "value": 8.3
+        },
+        "uri": "douban://douban.com/movie/37825206",
+        "card_subtitle": "2026 / 日本 / 剧情 科幻 动画 音乐 奇幻 / 山下清悟 / 夏吉优子 永濑安奈",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "36245712",
+        "title": "三级警戒",
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2922018448.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2922018448.jpg"
+        },
+        "rating": {
+            "count": 9927,
+            "max": 10,
+            "star_count": 4.0,
+            "value": 7.9
+        },
+        "uri": "douban://douban.com/movie/36245712",
+        "card_subtitle": "2025 / 美国 / 喜剧 动作 / 克里斯托弗·莱昂内 / 雷恩·威尔森 里尔·莱尔·哈瓦瑞",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "36503073",
+        "title": "暗黑新娘！",
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2929036260.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2929036260.jpg"
+        },
+        "rating": {
+            "count": 19147,
+            "max": 10,
+            "star_count": 3.0,
+            "value": 6.4
+        },
+        "uri": "douban://douban.com/movie/36503073",
+        "card_subtitle": "2026 / 法国 美国 / 剧情 惊悚 犯罪 / 玛吉·吉伦哈尔 / 杰西·巴克利 克里斯蒂安·贝尔",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "36838688",
+        "title": "人工情报",
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2929169445.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2929169445.jpg"
+        },
+        "rating": {
+            "count": 4495,
+            "max": 10,
+            "star_count": 3.0,
+            "value": 6.4
+        },
+        "uri": "douban://douban.com/movie/36838688",
+        "card_subtitle": "2026 / 韩国 / 剧情 动作 / 柳昇完 / 赵寅成 朴正民",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "37143216",
+        "title": "恩典",
+        "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2927598773.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2927598773.jpg"
+        },
+        "rating": {
+            "count": 3511,
+            "max": 10,
+            "star_count": 4.0,
+            "value": 7.5
+        },
+        "uri": "douban://douban.com/movie/37143216",
+        "card_subtitle": "2025 / 意大利 / 剧情 / 保罗·索伦蒂诺 / 托尼·塞尔维洛 安娜·费泽蒂",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "36600459",
+        "title": "捕风追影",
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2924069675.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2924069675.jpg"
+        },
+        "rating": {
+            "count": 567843,
+            "max": 10,
+            "star_count": 4.0,
+            "value": 8.1
+        },
+        "uri": "douban://douban.com/movie/36600459",
+        "card_subtitle": "2025 / 中国大陆 中国香港 / 剧情 动作 犯罪 / 杨子 / 成龙 张子枫",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "37250117",
+        "title": "暗流低语",
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2923642948.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2923642948.jpg"
+        },
+        "rating": {
+            "count": 1436,
+            "max": 10,
+            "star_count": 3.0,
+            "value": 5.7
+        },
+        "uri": "douban://douban.com/movie/37250117",
+        "card_subtitle": "2025 / 加拿大 / 科幻 惊悚 恐怖 / 伊恩·图阿松 / 尼娜·凯莉 亚当·迪马科",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "36448279",
+        "title": "罗小黑战记2",
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2923537864.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2923537864.jpg"
+        },
+        "rating": {
+            "count": 317123,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.7
+        },
+        "uri": "douban://douban.com/movie/36448279",
+        "card_subtitle": "2025 / 中国大陆 / 动画 奇幻 冒险 / 木头 顾杰 / 山新 刘明月",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "36913048",
+        "title": "远山淡影",
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2921302249.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2921302249.jpg"
+        },
+        "rating": {
+            "count": 8000,
+            "max": 10,
+            "star_count": 3.5,
+            "value": 7.0
+        },
+        "uri": "douban://douban.com/movie/36913048",
+        "card_subtitle": "2025 / 日本 英国 波兰 / 剧情 悬疑 / 石川庆 / 广濑铃 二阶堂富美",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "36964147",
+        "title": "日掛中天",
+        "pic": {
+            "large": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2926379611.jpg",
+            "normal": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2926379611.jpg"
+        },
+        "rating": {
+            "count": 95551,
+            "max": 10,
+            "star_count": 3.5,
+            "value": 7.1
+        },
+        "uri": "douban://douban.com/movie/36964147",
+        "card_subtitle": "2025 / 中国大陆 / 剧情 / 蔡尚君 / 辛芷蕾 张颂文",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "35881440",
+        "title": "唐顿庄园3",
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2922967026.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2922967026.jpg"
+        },
+        "rating": {
+            "count": 16872,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.6
+        },
+        "uri": "douban://douban.com/movie/35881440",
+        "card_subtitle": "2025 / 英国 美国 / 剧情 / 西蒙·柯蒂斯 / 米歇尔·道克瑞 休·博纳维尔",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "37322586",
+        "title": "生日快乐",
+        "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2930625032.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2930625032.jpg"
+        },
+        "rating": {
+            "count": 579,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.8
+        },
+        "uri": "douban://douban.com/movie/37322586",
+        "card_subtitle": "2025 / 埃及 / 剧情 / 萨拉·戈赫尔 / 内莉·卡里姆 Hanan Motawie",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "36777886",
+        "title": "团战之夜",
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2928833196.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2928833196.jpg"
+        },
+        "rating": {
+            "count": 6073,
+            "max": 10,
+            "star_count": 3.5,
+            "value": 6.7
+        },
+        "uri": "douban://douban.com/movie/36777886",
+        "card_subtitle": "2025 / 德国 美国 / 剧情 喜剧 科幻 / 戈尔·维宾斯基 / 山姆·洛克威尔 史蒂夫·马克",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "35182657",
+        "title": "母鸡",
+        "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2926802647.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2926802647.jpg"
+        },
+        "rating": {
+            "count": 814,
+            "max": 10,
+            "star_count": 4.0,
+            "value": 7.7
+        },
+        "uri": "douban://douban.com/movie/35182657",
+        "card_subtitle": "2025 / 德国 希腊 匈牙利 / 剧情 家庭 / 乔治·巴勒菲 / 雅尼斯·科基亚斯梅诺斯 玛丽亚·迪亚科帕纳约图",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "36438475",
+        "title": "浪浪山小妖怪",
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2923770138.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2923770138.jpg"
+        },
+        "rating": {
+            "count": 669631,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.5
+        },
+        "uri": "douban://douban.com/movie/36438475",
+        "card_subtitle": "2025 / 中国大陆 / 剧情 喜剧 动画 奇幻 / 於水 / 陈子平 路扬",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "36185502",
+        "title": "长安的荔枝",
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2926288464.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2926288464.jpg"
+        },
+        "rating": {
+            "count": 501621,
+            "max": 10,
+            "star_count": 4.0,
+            "value": 7.5
+        },
+        "uri": "douban://douban.com/movie/36185502",
+        "card_subtitle": "2025 / 中国大陆 / 剧情 喜剧 古装 / 大鹏 / 大鹏 白客",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "36085606",
+        "title": "好孩子",
+        "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2926225147.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2926225147.jpg"
+        },
+        "rating": {
+            "count": 3892,
+            "max": 10,
+            "star_count": 4.0,
+            "value": 8.1
+        },
+        "uri": "douban://douban.com/movie/36085606",
+        "card_subtitle": "2025 / 新加坡 / 剧情 同性 / 王国燊 / 许瑞奇 洪慧芳",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "36707354",
+        "title": "永恒站",
+        "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2928173522.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2928173522.jpg"
+        },
+        "rating": {
+            "count": 25247,
+            "max": 10,
+            "star_count": 3.5,
+            "value": 7.2
+        },
+        "uri": "douban://douban.com/movie/36707354",
+        "card_subtitle": "2025 / 美国 / 剧情 喜剧 爱情 奇幻 / 大卫·费恩 / 迈尔斯·特勒 伊丽莎白·奥尔森",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "36860441",
+        "title": "妥瑞氏与我",
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2923296598.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2923296598.jpg"
+        },
+        "rating": {
+            "count": 4612,
+            "max": 10,
+            "star_count": 4.0,
+            "value": 8.3
+        },
+        "uri": "douban://douban.com/movie/36860441",
+        "card_subtitle": "2025 / 英国 / 剧情 传记 历史 / 柯克·琼斯 / 罗伯特·阿拉马约 彼得·穆兰",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "37039108",
+        "title": "地母",
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2925709618.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2925709618.jpg"
+        },
+        "rating": {
+            "count": 1324,
+            "max": 10,
+            "star_count": 3.5,
+            "value": 7.1
+        },
+        "uri": "douban://douban.com/movie/37039108",
+        "card_subtitle": "2025 / 马来西亚 意大利 中国香港 / 剧情 / 张吉安 / 范冰冰 许恩怡",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "36977669",
+        "title": "东北警察故事3",
+        "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2929406352.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2929406352.jpg"
+        },
+        "rating": {
+            "count": 65064,
+            "max": 10,
+            "star_count": 3.5,
+            "value": 7.4
+        },
+        "uri": "douban://douban.com/movie/36977669",
+        "card_subtitle": "2026 / 中国大陆 / 喜剧 动作 犯罪 / 杨秉佳 / 谢苗 林晓杰",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "36175206",
+        "title": "魔法坏女巫2",
+        "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2927288302.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2927288302.jpg"
+        },
+        "rating": {
+            "count": 17875,
+            "max": 10,
+            "star_count": 3.0,
+            "value": 5.6
+        },
+        "uri": "douban://douban.com/movie/36175206",
+        "card_subtitle": "2025 / 美国 加拿大 澳大利亚 / 剧情 爱情 歌舞 奇幻 / 朱浩伟 / 辛西娅·埃里沃 爱莉安娜·格兰德",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "36766190",
+        "title": "国宝",
+        "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2920282183.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2920282183.jpg"
+        },
+        "rating": {
+            "count": 15923,
+            "max": 10,
+            "star_count": 4.0,
+            "value": 7.7
+        },
+        "uri": "douban://douban.com/movie/36766190",
+        "card_subtitle": "2025 / 日本 / 剧情 / 李相日 / 吉泽亮 横滨流星",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "37107063",
+        "title": "震耳欲聋",
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2928430959.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2928430959.jpg"
+        },
+        "rating": {
+            "count": 264361,
+            "max": 10,
+            "star_count": 3.5,
+            "value": 7.4
+        },
+        "uri": "douban://douban.com/movie/37107063",
+        "card_subtitle": "2025 / 中国大陆 / 剧情 犯罪 / 万力 / 檀健次 兰西雅",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "36829507",
+        "title": "坏蛋联盟2",
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2923073504.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2923073504.jpg"
+        },
+        "rating": {
+            "count": 79917,
+            "max": 10,
+            "star_count": 4.0,
+            "value": 7.6
+        },
+        "uri": "douban://douban.com/movie/36829507",
+        "card_subtitle": "2025 / 美国 / 喜剧 动作 动画 悬疑 犯罪 冒险 / 皮埃尔·佩里费尔  J·P·桑斯 / 山姆·洛克威尔 马克·马龙",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "36877209",
+        "title": "镜的第三乐章",
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2928101688.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2928101688.jpg"
+        },
+        "rating": {
+            "count": 5681,
+            "max": 10,
+            "star_count": 3.5,
+            "value": 7.4
+        },
+        "uri": "douban://douban.com/movie/36877209",
+        "card_subtitle": "2025 / 德国 / 剧情 / 克里斯蒂安·佩措尔德 / 葆拉·贝尔 巴尔巴拉·奥尔",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "36821452",
+        "title": "尼诺",
+        "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2923056817.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2923056817.jpg"
+        },
+        "rating": {
+            "count": 1681,
+            "max": 10,
+            "star_count": 3.5,
+            "value": 7.2
+        },
+        "uri": "douban://douban.com/movie/36821452",
+        "card_subtitle": "2025 / 法国 / 剧情 / 波利娜·洛克 / 西奥多·佩尔兰 威廉·勒布吉欧",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "35183324",
+        "title": "花漾少女杀人事件",
+        "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2923252272.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2923252272.jpg"
+        },
+        "rating": {
+            "count": 107030,
+            "max": 10,
+            "star_count": 3.5,
+            "value": 7.1
+        },
+        "uri": "douban://douban.com/movie/35183324",
+        "card_subtitle": "2025 / 中国大陆 / 剧情 悬疑 / 周璟豪 / 张子枫 丁湘源",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "26900149",
+        "title": "如何大赚一笔",
+        "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2929342062.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2929342062.jpg"
+        },
+        "rating": {
+            "count": 3109,
+            "max": 10,
+            "star_count": 3.0,
+            "value": 5.9
+        },
+        "uri": "douban://douban.com/movie/26900149",
+        "card_subtitle": "2026 / 英国 法国 / 剧情 喜剧 惊悚 / 约翰·巴顿·福特 / 格伦·鲍威尔 玛格丽特·库里",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "37071133",
+        "title": "菜肉馄饨",
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2928450378.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2928450378.jpg"
+        },
+        "rating": {
+            "count": 25742,
+            "max": 10,
+            "star_count": 3.5,
+            "value": 7.2
+        },
+        "uri": "douban://douban.com/movie/37071133",
+        "card_subtitle": "2025 / 中国大陆 / 剧情 喜剧 爱情 / 吴天戈 / 周野芒 潘虹",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "36474027",
+        "title": "镖人：风起大漠",
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2929760596.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2929760596.jpg"
+        },
+        "rating": {
+            "count": 365467,
+            "max": 10,
+            "star_count": 4.0,
+            "value": 7.5
+        },
+        "uri": "douban://douban.com/movie/36474027",
+        "card_subtitle": "2026 / 中国大陆 / 动作 武侠 古装 / 袁和平 / 吴京 谢霆锋",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "35416174",
+        "title": "狂野时代",
+        "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2927277533.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2927277533.jpg"
+        },
+        "rating": {
+            "count": 143522,
+            "max": 10,
+            "star_count": 3.5,
+            "value": 6.5
+        },
+        "uri": "douban://douban.com/movie/35416174",
+        "card_subtitle": "2025 / 中国大陆 法国 / 剧情 科幻 / 毕赣 / 易烊千玺 舒淇",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "37231952",
+        "title": "父影之下",
+        "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2931464273.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2931464273.jpg"
+        },
+        "rating": {
+            "count": 1028,
+            "max": 10,
+            "star_count": 4.0,
+            "value": 7.5
+        },
+        "uri": "douban://douban.com/movie/37231952",
+        "card_subtitle": "2025 / 英国 尼日利亚 爱尔兰 / 剧情 / 阿基诺拉·戴维斯 / 索佩·迪瑞苏 戈德温·埃格博",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "36850893",
+        "title": "惊变28年2：白骨圣殿",
+        "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2927456643.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2927456643.jpg"
+        },
+        "rating": {
+            "count": 11569,
+            "max": 10,
+            "star_count": 3.5,
+            "value": 6.5
+        },
+        "uri": "douban://douban.com/movie/36850893",
+        "card_subtitle": "2026 / 英国 美国 加拿大 / 科幻 惊悚 恐怖 / 尼娅·达科斯塔 / 拉尔夫·费因斯 杰克·奥康奈尔",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    },
+    {
+        "id": "36553324",
+        "title": "趣塔德庄园",
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2928519728.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2928519728.jpg"
+        },
+        "rating": {
+            "count": 5086,
+            "max": 10,
+            "star_count": 3.5,
+            "value": 7.2
+        },
+        "uri": "douban://douban.com/movie/36553324",
+        "card_subtitle": "2025 / 英国 / 喜剧 / 吉姆·奥汉龙 / 戴米恩·路易斯 凯瑟琳·沃特斯顿",
+        "is_new": false,
+        "episodes_info": "",
+        "type": "movie"
+    }
+]
