@@ -2,6 +2,8 @@ import requests
 import pandas as pd
 import json
 import time
+import matplotlib.pyplot as plt
+import seaborn as sns
 url="https://m.douban.com/rexxar/api/v2/subject/recent_hot/movie"
 headers={
     "User-Agent":"Mozilla/5.0",
@@ -64,3 +66,39 @@ hot_df=df[df["rating"]>8.0]
 print(hot_df)
 print(type_df["类型"].value_counts().head(10))
 print(country_df["地区"].value_counts().head(10))
+# 中文显示，Windows 常用
+plt.rcParams["font.sans-serif"] = ["SimHei"]
+plt.rcParams["axes.unicode_minus"] = False
+
+# 1. 电影类型 Top10
+type_count = type_df["类型"].value_counts().head(10)
+
+plt.figure(figsize=(10, 6))
+sns.barplot(x=type_count.values, y=type_count.index)
+plt.title("豆瓣热门电影类型 Top10")
+plt.xlabel("数量")
+plt.ylabel("类型")
+plt.tight_layout()
+plt.show()
+
+
+# 2. 地区 Top10
+country_count = country_df["地区"].value_counts().head(10)
+
+plt.figure(figsize=(10, 6))
+sns.barplot(x=country_count.values, y=country_count.index)
+plt.title("豆瓣热门电影地区 Top10")
+plt.xlabel("数量")
+plt.ylabel("地区")
+plt.tight_layout()
+plt.show()
+
+
+# 3. 评分分布
+plt.figure(figsize=(10, 6))
+sns.histplot(df["rating"].dropna(), bins=10, kde=True)
+plt.title("豆瓣热门电影评分分布")
+plt.xlabel("评分")
+plt.ylabel("数量")
+plt.tight_layout()
+plt.show()
