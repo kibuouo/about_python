@@ -1,0 +1,510 @@
+{
+    "category": "热门",
+    "type": "全部",
+    "total": 397,
+    "items": [
+        {
+            "id": "37469599",
+            "title": "如果能成为恋人",
+            "pic": {
+                "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2924739992.jpg",
+                "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2924739992.jpg"
+            },
+            "rating": {
+                "count": 614,
+                "max": 10,
+                "star_count": 3.5,
+                "value": 7.0
+            },
+            "uri": "douban://douban.com/movie/37469599",
+            "card_subtitle": "2025 / 日本 / 剧情 爱情 / 山中瑶子 / 中田青渚 金子大地",
+            "is_new": false,
+            "episodes_info": "",
+            "type": "movie"
+        },
+        {
+            "id": "36362847",
+            "title": "海达",
+            "pic": {
+                "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2924522743.jpg",
+                "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2924522743.jpg"
+            },
+            "rating": {
+                "count": 968,
+                "max": 10,
+                "star_count": 3.0,
+                "value": 6.0
+            },
+            "uri": "douban://douban.com/movie/36362847",
+            "card_subtitle": "2025 / 美国 / 剧情 / 尼娅·达科斯塔 / 泰莎·汤普森 伊莫琴·普茨",
+            "is_new": false,
+            "episodes_info": "",
+            "type": "movie"
+        },
+        {
+            "id": "37384911",
+            "title": "极度召唤",
+            "pic": {
+                "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2922365242.jpg",
+                "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2922365242.jpg"
+            },
+            "rating": {
+                "count": 523,
+                "max": 10,
+                "star_count": 3.0,
+                "value": 5.6
+            },
+            "uri": "douban://douban.com/movie/37384911",
+            "card_subtitle": "2025 / 印度尼西亚 / 恐怖 / Hadrah Daeng Ratu / Mhd Arjunanta Djenar Maesa Ayu",
+            "is_new": false,
+            "episodes_info": "",
+            "type": "movie"
+        },
+        {
+            "id": "37191804",
+            "title": "岸边露伴一动不动 忏悔室",
+            "pic": {
+                "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2919236923.jpg",
+                "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2919236923.jpg"
+            },
+            "rating": {
+                "count": 641,
+                "max": 10,
+                "star_count": 3.0,
+                "value": 6.2
+            },
+            "uri": "douban://douban.com/movie/37191804",
+            "card_subtitle": "2025 / 日本 / 剧情 恐怖 奇幻 / 渡边一贵 / 高桥一生 饭丰万理江",
+            "is_new": false,
+            "episodes_info": "",
+            "type": "movie"
+        },
+        {
+            "id": "37226541",
+            "title": "ChaO，我代表人类跟人鱼结婚了",
+            "pic": {
+                "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2919740044.jpg",
+                "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2919740044.jpg"
+            },
+            "rating": {
+                "count": 441,
+                "max": 10,
+                "star_count": 3.0,
+                "value": 6.3
+            },
+            "uri": "douban://douban.com/movie/37226541",
+            "card_subtitle": "2025 / 日本 / 动画 / 青木康浩 / 铃鹿央士 山田杏奈",
+            "is_new": false,
+            "episodes_info": "",
+            "type": "movie"
+        },
+        {
+            "id": "36481311",
+            "title": "亡命父女",
+            "pic": {
+                "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2924716765.jpg",
+                "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2924716765.jpg"
+            },
+            "rating": {
+                "count": 916,
+                "max": 10,
+                "star_count": 3.0,
+                "value": 6.1
+            },
+            "uri": "douban://douban.com/movie/36481311",
+            "card_subtitle": "2025 / 美国 英国 / 剧情 惊悚 / 尼克·罗兰 / 塔伦·埃哲顿 安娜·索菲亚·海格尔",
+            "is_new": false,
+            "episodes_info": "",
+            "type": "movie"
+        },
+        {
+            "id": "37352648",
+            "title": "魔法坏女巫：奇幻之夜",
+            "pic": {
+                "large": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2929166541.jpg",
+                "normal": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2929166541.jpg"
+            },
+            "rating": {
+                "count": 316,
+                "max": 10,
+                "star_count": 4.5,
+                "value": 8.5
+            },
+            "uri": "douban://douban.com/movie/37352648",
+            "card_subtitle": "2025 / 美国 / 音乐 歌舞 / 保罗·达格代尔 凯恩·萨菲亚里 克里斯多夫·斯科特 / 辛西娅·埃里沃 爱莉安娜·格兰德",
+            "is_new": false,
+            "episodes_info": "",
+            "type": "movie"
+        },
+        {
+            "id": "37284414",
+            "title": "攻击鬼魂13号",
+            "pic": {
+                "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2926423666.jpg",
+                "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2926423666.jpg"
+            },
+            "rating": {
+                "count": 1423,
+                "max": 10,
+                "star_count": 3.0,
+                "value": 5.7
+            },
+            "uri": "douban://douban.com/movie/37284414",
+            "card_subtitle": "2025 / 泰国 / 惊悚 恐怖 / 塔韦华·温泰 / 格兰妮·拉素冰帕索尔 Veerinsara Tangkitsuvanich",
+            "is_new": false,
+            "episodes_info": "",
+            "type": "movie"
+        },
+        {
+            "id": "37049749",
+            "title": "浴火之森",
+            "pic": {
+                "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2929999214.jpg",
+                "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2929999214.jpg"
+            },
+            "rating": {
+                "count": 390,
+                "max": 10,
+                "star_count": 3.0,
+                "value": 5.8
+            },
+            "uri": "douban://douban.com/movie/37049749",
+            "card_subtitle": "2026 / 西班牙 / 剧情 惊悚 / 大卫·维多利 / 贝伦·奎斯塔 戴安娜·戈麦斯",
+            "is_new": false,
+            "episodes_info": "",
+            "type": "movie"
+        },
+        {
+            "id": "37113225",
+            "title": "代号巴德",
+            "pic": {
+                "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2923890323.jpg",
+                "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2923890323.jpg"
+            },
+            "rating": {
+                "count": 342,
+                "max": 10,
+                "star_count": 3.0,
+                "value": 5.9
+            },
+            "uri": "douban://douban.com/movie/37113225",
+            "card_subtitle": "2025 / 法国 / 动作 惊悚 / 纪尧姆·德·丰特奈 / 玛丽恩·瓦科特 埃马纽埃尔·贝克特",
+            "is_new": false,
+            "episodes_info": "",
+            "type": "movie"
+        },
+        {
+            "id": "36171174",
+            "title": "烧酒战争",
+            "pic": {
+                "large": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2921597171.jpg",
+                "normal": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2921597171.jpg"
+            },
+            "rating": {
+                "count": 937,
+                "max": 10,
+                "star_count": 3.0,
+                "value": 6.3
+            },
+            "uri": "douban://douban.com/movie/36171174",
+            "card_subtitle": "2025 / 美国 韩国 / 剧情 传记 / 崔昀贞 / 文峰 李帝勋",
+            "is_new": false,
+            "episodes_info": "",
+            "type": "movie"
+        },
+        {
+            "id": "36171159",
+            "title": "杀婴者",
+            "pic": {
+                "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2923390642.jpg",
+                "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2923390642.jpg"
+            },
+            "rating": {
+                "count": 978,
+                "max": 10,
+                "star_count": 3.0,
+                "value": 6.3
+            },
+            "uri": "douban://douban.com/movie/36171159",
+            "card_subtitle": "2025 / 韩国 / 动作 / 庾河 / 知英 李起光",
+            "is_new": false,
+            "episodes_info": "",
+            "type": "movie"
+        },
+        {
+            "id": "36772307",
+            "title": "冰湖行动",
+            "pic": {
+                "large": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2926896501.jpg",
+                "normal": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2926896501.jpg"
+            },
+            "rating": {
+                "count": 785,
+                "max": 10,
+                "star_count": 3.0,
+                "value": 5.6
+            },
+            "uri": "douban://douban.com/movie/36772307",
+            "card_subtitle": "2025 / 美国 / 惊悚 犯罪 / 斯戴芬·卢佐维茨基 / 乔尔·金纳曼 卡拉·杰德·迈尔斯",
+            "is_new": false,
+            "episodes_info": "",
+            "type": "movie"
+        },
+        {
+            "id": "36948340",
+            "title": "通往你的地图",
+            "pic": {
+                "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2924638133.jpg",
+                "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2924638133.jpg"
+            },
+            "rating": {
+                "count": 875,
+                "max": 10,
+                "star_count": 3.0,
+                "value": 6.1
+            },
+            "uri": "douban://douban.com/movie/36948340",
+            "card_subtitle": "2025 / 美国 / 剧情 爱情 / 拉斯·霍尔斯道姆 / 玛德琳·克莱因 乔什·卢卡斯",
+            "is_new": false,
+            "episodes_info": "",
+            "type": "movie"
+        },
+        {
+            "id": "36707368",
+            "title": "罪证子弹3",
+            "pic": {
+                "large": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2921269101.jpg",
+                "normal": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2921269101.jpg"
+            },
+            "rating": {
+                "count": 1235,
+                "max": 10,
+                "star_count": 3.5,
+                "value": 6.5
+            },
+            "uri": "douban://douban.com/movie/36707368",
+            "card_subtitle": "2025 / 法国 / 剧情 动作 惊悚 犯罪 / 纪尧姆·皮埃雷 / 奥尔本·勒努瓦 施特菲·塞尔马",
+            "is_new": false,
+            "episodes_info": "",
+            "type": "movie"
+        },
+        {
+            "id": "36894397",
+            "title": "黄沙漫天",
+            "pic": {
+                "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2921931289.jpg",
+                "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2921931289.jpg"
+            },
+            "rating": {
+                "count": 5153,
+                "max": 10,
+                "star_count": 3.0,
+                "value": 6.0
+            },
+            "uri": "douban://douban.com/movie/36894397",
+            "card_subtitle": "2025 / 中国大陆 / 喜剧 战争 / 伊力奇 / 小沈阳 周大勇",
+            "is_new": false,
+            "episodes_info": "",
+            "type": "movie"
+        },
+        {
+            "id": "35882074",
+            "title": "冲·撞",
+            "pic": {
+                "large": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2921312281.jpg",
+                "normal": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2921312281.jpg"
+            },
+            "rating": {
+                "count": 4949,
+                "max": 10,
+                "star_count": 3.0,
+                "value": 6.2
+            },
+            "uri": "douban://douban.com/movie/35882074",
+            "card_subtitle": "2025 / 中国大陆 / 喜剧 动作 / 蒋佳辰 / 李九霄 王千源",
+            "is_new": false,
+            "episodes_info": "",
+            "type": "movie"
+        }
+    ],
+    "tags": [
+        {
+            "title": "热门电影",
+            "category": "热门",
+            "selected": true,
+            "types": [
+                {
+                    "title": "全部",
+                    "type": "全部",
+                    "selected": true
+                },
+                {
+                    "title": "华语",
+                    "type": "华语",
+                    "selected": false
+                },
+                {
+                    "title": "欧美",
+                    "type": "欧美",
+                    "selected": false
+                },
+                {
+                    "title": "韩国",
+                    "type": "韩国",
+                    "selected": false
+                },
+                {
+                    "title": "日本",
+                    "type": "日本",
+                    "selected": false
+                }
+            ]
+        },
+        {
+            "title": "最新电影",
+            "category": "最新",
+            "selected": false,
+            "types": [
+                {
+                    "title": "全部",
+                    "type": "全部",
+                    "selected": false
+                },
+                {
+                    "title": "华语",
+                    "type": "华语",
+                    "selected": false
+                },
+                {
+                    "title": "欧美",
+                    "type": "欧美",
+                    "selected": false
+                },
+                {
+                    "title": "韩国",
+                    "type": "韩国",
+                    "selected": false
+                },
+                {
+                    "title": "日本",
+                    "type": "日本",
+                    "selected": false
+                }
+            ]
+        },
+        {
+            "title": "豆瓣高分",
+            "category": "豆瓣高分",
+            "selected": false,
+            "types": [
+                {
+                    "title": "全部",
+                    "type": "全部",
+                    "selected": false
+                },
+                {
+                    "title": "华语",
+                    "type": "华语",
+                    "selected": false
+                },
+                {
+                    "title": "欧美",
+                    "type": "欧美",
+                    "selected": false
+                },
+                {
+                    "title": "韩国",
+                    "type": "韩国",
+                    "selected": false
+                },
+                {
+                    "title": "日本",
+                    "type": "日本",
+                    "selected": false
+                }
+            ]
+        },
+        {
+            "title": "冷门佳片",
+            "category": "冷门佳片",
+            "selected": false,
+            "types": [
+                {
+                    "title": "全部",
+                    "type": "全部",
+                    "selected": false
+                },
+                {
+                    "title": "华语",
+                    "type": "华语",
+                    "selected": false
+                },
+                {
+                    "title": "欧美",
+                    "type": "欧美",
+                    "selected": false
+                },
+                {
+                    "title": "韩国",
+                    "type": "韩国",
+                    "selected": false
+                },
+                {
+                    "title": "日本",
+                    "type": "日本",
+                    "selected": false
+                }
+            ]
+        }
+    ],
+    "recommend_tags": [
+        {
+            "title": "热门",
+            "category": "热门",
+            "type": "全部",
+            "selected": true
+        },
+        {
+            "title": "最新",
+            "category": "最新",
+            "type": "全部",
+            "selected": false
+        },
+        {
+            "title": "豆瓣高分",
+            "category": "豆瓣高分",
+            "type": "全部",
+            "selected": false
+        },
+        {
+            "title": "冷门佳片",
+            "category": "冷门佳片",
+            "type": "全部",
+            "selected": false
+        },
+        {
+            "title": "华语",
+            "category": "热门",
+            "type": "华语",
+            "selected": false
+        },
+        {
+            "title": "欧美",
+            "category": "热门",
+            "type": "欧美",
+            "selected": false
+        },
+        {
+            "title": "韩国",
+            "category": "热门",
+            "type": "韩国",
+            "selected": false
+        },
+        {
+            "title": "日本",
+            "category": "热门",
+            "type": "日本",
+            "selected": false
+        }
+    ]
+}
