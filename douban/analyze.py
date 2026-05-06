@@ -1,5 +1,6 @@
+import logging
 def analyze_movies(df):
-    print("正在分析电影数据...")
+    logging.info("正在分析电影数据...")
     type_df=df.copy()
     type_df["类型"]=type_df["类型"].str.split()
     type_df=type_df.explode("类型")
