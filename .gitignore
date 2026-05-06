@@ -1,0 +1,14 @@
+# Ignore the douban data directory
+# This prevents data files under douban/data/ from being tracked by git.
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+.venv/
+
+# Data files
+douban/data/
+
+# VSCode
+.vscode/
