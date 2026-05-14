@@ -53,15 +53,15 @@
         },
         "stat": {
             "aid": 116571972574050,
-            "view": 111337,
-            "danmaku": 345,
-            "reply": 248,
-            "favorite": 1709,
-            "coin": 902,
-            "share": 309,
+            "view": 127370,
+            "danmaku": 378,
+            "reply": 262,
+            "favorite": 1894,
+            "coin": 977,
+            "share": 328,
             "now_rank": 0,
             "his_rank": 0,
-            "like": 5411,
+            "like": 5854,
             "dislike": 0,
             "evaluation": "",
             "vt": 0
@@ -170,20 +170,20 @@
                                 },
                                 "stat": {
                                     "aid": 113541856107172,
-                                    "view": 301058,
+                                    "view": 301362,
                                     "danmaku": 552,
                                     "reply": 584,
-                                    "fav": 1305,
+                                    "fav": 1306,
                                     "coin": 1469,
                                     "share": 262,
                                     "now_rank": 0,
                                     "his_rank": 0,
-                                    "like": 7222,
+                                    "like": 7223,
                                     "dislike": 0,
                                     "evaluation": "",
                                     "argue_msg": "",
                                     "vt": 0,
-                                    "vv": 301058
+                                    "vv": 301362
                                 },
                                 "dynamic": "",
                                 "dimension": {
@@ -275,7 +275,7 @@
                                 },
                                 "stat": {
                                     "aid": 113596918931057,
-                                    "view": 413261,
+                                    "view": 413348,
                                     "danmaku": 785,
                                     "reply": 661,
                                     "fav": 2779,
@@ -288,7 +288,7 @@
                                     "evaluation": "",
                                     "argue_msg": "",
                                     "vt": 0,
-                                    "vv": 413261
+                                    "vv": 413348
                                 },
                                 "dynamic": "",
                                 "dimension": {
@@ -380,7 +380,7 @@
                                 },
                                 "stat": {
                                     "aid": 113700031698679,
-                                    "view": 298734,
+                                    "view": 298786,
                                     "danmaku": 756,
                                     "reply": 724,
                                     "fav": 1327,
@@ -393,7 +393,7 @@
                                     "evaluation": "",
                                     "argue_msg": "",
                                     "vt": 0,
-                                    "vv": 298734
+                                    "vv": 298786
                                 },
                                 "dynamic": "",
                                 "dimension": {
@@ -485,7 +485,7 @@
                                 },
                                 "stat": {
                                     "aid": 113740599006336,
-                                    "view": 563934,
+                                    "view": 563963,
                                     "danmaku": 9571,
                                     "reply": 3667,
                                     "fav": 5123,
@@ -498,7 +498,7 @@
                                     "evaluation": "",
                                     "argue_msg": "",
                                     "vt": 0,
-                                    "vv": 563934
+                                    "vv": 563963
                                 },
                                 "dynamic": "",
                                 "dimension": {
@@ -590,7 +590,7 @@
                                 },
                                 "stat": {
                                     "aid": 113745430910259,
-                                    "view": 230838,
+                                    "view": 230866,
                                     "danmaku": 751,
                                     "reply": 490,
                                     "fav": 2073,
@@ -603,7 +603,7 @@
                                     "evaluation": "",
                                     "argue_msg": "",
                                     "vt": 0,
-                                    "vv": 230838
+                                    "vv": 230866
                                 },
                                 "dynamic": "",
                                 "dimension": {
@@ -695,7 +695,7 @@
                                 },
                                 "stat": {
                                     "aid": 113798547578406,
-                                    "view": 630920,
+                                    "view": 630932,
                                     "danmaku": 6254,
                                     "reply": 3416,
                                     "fav": 3043,
@@ -708,7 +708,7 @@
                                     "evaluation": "",
                                     "argue_msg": "",
                                     "vt": 0,
-                                    "vv": 630920
+                                    "vv": 630932
                                 },
                                 "dynamic": "",
                                 "dimension": {
@@ -800,7 +800,7 @@
                                 },
                                 "stat": {
                                     "aid": 113826246696614,
-                                    "view": 148519,
+                                    "view": 148527,
                                     "danmaku": 388,
                                     "reply": 410,
                                     "fav": 889,
@@ -813,7 +813,7 @@
                                     "evaluation": "",
                                     "argue_msg": "",
                                     "vt": 0,
-                                    "vv": 148519
+                                    "vv": 148527
                                 },
                                 "dynamic": "",
                                 "dimension": {
@@ -905,7 +905,7 @@
                                 },
                                 "stat": {
                                     "aid": 113846933069217,
-                                    "view": 142310,
+                                    "view": 142319,
                                     "danmaku": 1243,
                                     "reply": 1492,
                                     "fav": 1502,
@@ -918,7 +918,7 @@
                                     "evaluation": "",
                                     "argue_msg": "",
                                     "vt": 0,
-                                    "vv": 142310
+                                    "vv": 142319
                                 },
                                 "dynamic": "",
                                 "dimension": {
@@ -1010,7 +1010,7 @@
                                 },
                                 "stat": {
                                     "aid": 113853727775214,
-                                    "view": 168670,
+                                    "view": 168672,
                                     "danmaku": 2012,
                                     "reply": 1906,
                                     "fav": 3740,
@@ -1023,7 +1023,7 @@
                                     "evaluation": "",
                                     "argue_msg": "",
                                     "vt": 0,
-                                    "vv": 168670
+                                    "vv": 168672
                                 },
                                 "dynamic": "",
                                 "dimension": {
@@ -1115,7 +1115,7 @@
                                 },
                                 "stat": {
                                     "aid": 113870605721186,
-                                    "view": 208748,
+                                    "view": 208750,
                                     "danmaku": 746,
                                     "reply": 654,
                                     "fav": 1307,
@@ -1128,7 +1128,7 @@
                                     "evaluation": "",
                                     "argue_msg": "",
                                     "vt": 0,
-                                    "vv": 208748
+                                    "vv": 208750
                                 },
                                 "dynamic": "",
                                 "dimension": {
@@ -1220,7 +1220,7 @@
                                 },
                                 "stat": {
                                     "aid": 113904847950266,
-                                    "view": 297265,
+                                    "view": 297270,
                                     "danmaku": 2016,
                                     "reply": 2020,
                                     "fav": 4199,
@@ -1233,7 +1233,7 @@
                                     "evaluation": "",
                                     "argue_msg": "",
                                     "vt": 0,
-                                    "vv": 297265
+                                    "vv": 297270
                                 },
                                 "dynamic": "",
                                 "dimension": {
@@ -1325,7 +1325,7 @@
                                 },
                                 "stat": {
                                     "aid": 113934778504794,
-                                    "view": 561620,
+                                    "view": 561622,
                                     "danmaku": 1956,
                                     "reply": 1410,
                                     "fav": 5257,
@@ -1338,7 +1338,7 @@
                                     "evaluation": "",
                                     "argue_msg": "",
                                     "vt": 0,
-                                    "vv": 561620
+                                    "vv": 561622
                                 },
                                 "dynamic": "",
                                 "dimension": {
@@ -1535,7 +1535,7 @@
                                 },
                                 "stat": {
                                     "aid": 114107281839658,
-                                    "view": 209132,
+                                    "view": 209133,
                                     "danmaku": 1557,
                                     "reply": 939,
                                     "fav": 1059,
@@ -1543,12 +1543,12 @@
                                     "share": 439,
                                     "now_rank": 0,
                                     "his_rank": 0,
-                                    "like": 7044,
+                                    "like": 7045,
                                     "dislike": 0,
                                     "evaluation": "",
                                     "argue_msg": "",
                                     "vt": 0,
-                                    "vv": 209132
+                                    "vv": 209133
                                 },
                                 "dynamic": "",
                                 "dimension": {
@@ -1640,7 +1640,7 @@
                                 },
                                 "stat": {
                                     "aid": 114305924076960,
-                                    "view": 799706,
+                                    "view": 799708,
                                     "danmaku": 1691,
                                     "reply": 1523,
                                     "fav": 4140,
@@ -1653,7 +1653,7 @@
                                     "evaluation": "",
                                     "argue_msg": "",
                                     "vt": 0,
-                                    "vv": 799706
+                                    "vv": 799708
                                 },
                                 "dynamic": "",
                                 "dimension": {
@@ -1850,10 +1850,10 @@
                                 },
                                 "stat": {
                                     "aid": 114351591661530,
-                                    "view": 483818,
+                                    "view": 483835,
                                     "danmaku": 1078,
                                     "reply": 720,
-                                    "fav": 4861,
+                                    "fav": 4862,
                                     "coin": 2755,
                                     "share": 748,
                                     "now_rank": 0,
@@ -1863,7 +1863,7 @@
                                     "evaluation": "",
                                     "argue_msg": "",
                                     "vt": 0,
-                                    "vv": 483818
+                                    "vv": 483835
                                 },
                                 "dynamic": "",
                                 "dimension": {
@@ -1955,7 +1955,7 @@
                                 },
                                 "stat": {
                                     "aid": 114370130485054,
-                                    "view": 340772,
+                                    "view": 340774,
                                     "danmaku": 666,
                                     "reply": 619,
                                     "fav": 3094,
@@ -1968,7 +1968,7 @@
                                     "evaluation": "",
                                     "argue_msg": "",
                                     "vt": 0,
-                                    "vv": 340772
+                                    "vv": 340774
                                 },
                                 "dynamic": "",
                                 "dimension": {
@@ -2165,7 +2165,7 @@
                                 },
                                 "stat": {
                                     "aid": 115194814535772,
-                                    "view": 692019,
+                                    "view": 692021,
                                     "danmaku": 4304,
                                     "reply": 2142,
                                     "fav": 4637,
@@ -2178,7 +2178,7 @@
                                     "evaluation": "",
                                     "argue_msg": "",
                                     "vt": 0,
-                                    "vv": 692019
+                                    "vv": 692021
                                 },
                                 "dynamic": "",
                                 "dimension": {
@@ -2270,7 +2270,7 @@
                                 },
                                 "stat": {
                                     "aid": 115202313949931,
-                                    "view": 318861,
+                                    "view": 318864,
                                     "danmaku": 3602,
                                     "reply": 1239,
                                     "fav": 2224,
@@ -2283,7 +2283,7 @@
                                     "evaluation": "",
                                     "argue_msg": "",
                                     "vt": 0,
-                                    "vv": 318861
+                                    "vv": 318864
                                 },
                                 "dynamic": "",
                                 "dimension": {
@@ -2375,7 +2375,7 @@
                                 },
                                 "stat": {
                                     "aid": 115214812977481,
-                                    "view": 394395,
+                                    "view": 394397,
                                     "danmaku": 4478,
                                     "reply": 1272,
                                     "fav": 2311,
@@ -2388,7 +2388,7 @@
                                     "evaluation": "",
                                     "argue_msg": "",
                                     "vt": 0,
-                                    "vv": 394395
+                                    "vv": 394397
                                 },
                                 "dynamic": "",
                                 "dimension": {
@@ -2480,7 +2480,7 @@
                                 },
                                 "stat": {
                                     "aid": 115224644427285,
-                                    "view": 556180,
+                                    "view": 556182,
                                     "danmaku": 2325,
                                     "reply": 1788,
                                     "fav": 4071,
@@ -2493,7 +2493,7 @@
                                     "evaluation": "",
                                     "argue_msg": "",
                                     "vt": 0,
-                                    "vv": 556180
+                                    "vv": 556182
                                 },
                                 "dynamic": "",
                                 "dimension": {
@@ -2585,7 +2585,7 @@
                                 },
                                 "stat": {
                                     "aid": 115338410727433,
-                                    "view": 144966,
+                                    "view": 144970,
                                     "danmaku": 319,
                                     "reply": 156,
                                     "fav": 1007,
@@ -2598,7 +2598,7 @@
                                     "evaluation": "",
                                     "argue_msg": "",
                                     "vt": 0,
-                                    "vv": 144966
+                                    "vv": 144970
                                 },
                                 "dynamic": "",
                                 "dimension": {
@@ -2795,7 +2795,7 @@
                                 },
                                 "stat": {
                                     "aid": 115638940998259,
-                                    "view": 361014,
+                                    "view": 361017,
                                     "danmaku": 1305,
                                     "reply": 771,
                                     "fav": 2141,
@@ -2808,7 +2808,7 @@
                                     "evaluation": "",
                                     "argue_msg": "",
                                     "vt": 0,
-                                    "vv": 361014
+                                    "vv": 361017
                                 },
                                 "dynamic": "",
                                 "dimension": {
@@ -2900,7 +2900,7 @@
                                 },
                                 "stat": {
                                     "aid": 115655751768624,
-                                    "view": 112020,
+                                    "view": 112021,
                                     "danmaku": 134,
                                     "reply": 179,
                                     "fav": 674,
@@ -2913,7 +2913,7 @@
                                     "evaluation": "",
                                     "argue_msg": "",
                                     "vt": 0,
-                                    "vv": 112020
+                                    "vv": 112021
                                 },
                                 "dynamic": "",
                                 "dimension": {
@@ -3005,7 +3005,7 @@
                                 },
                                 "stat": {
                                     "aid": 115660919148823,
-                                    "view": 260573,
+                                    "view": 260582,
                                     "danmaku": 304,
                                     "reply": 483,
                                     "fav": 1638,
@@ -3018,7 +3018,7 @@
                                     "evaluation": "",
                                     "argue_msg": "",
                                     "vt": 0,
-                                    "vv": 260573
+                                    "vv": 260582
                                 },
                                 "dynamic": "",
                                 "dimension": {
@@ -3110,7 +3110,7 @@
                                 },
                                 "stat": {
                                     "aid": 115977421461329,
-                                    "view": 249568,
+                                    "view": 249579,
                                     "danmaku": 823,
                                     "reply": 766,
                                     "fav": 2424,
@@ -3123,7 +3123,7 @@
                                     "evaluation": "",
                                     "argue_msg": "",
                                     "vt": 0,
-                                    "vv": 249568
+                                    "vv": 249579
                                 },
                                 "dynamic": "",
                                 "dimension": {
@@ -3215,7 +3215,7 @@
                                 },
                                 "stat": {
                                     "aid": 116013190353189,
-                                    "view": 206412,
+                                    "view": 206420,
                                     "danmaku": 399,
                                     "reply": 338,
                                     "fav": 1876,
@@ -3228,7 +3228,7 @@
                                     "evaluation": "",
                                     "argue_msg": "",
                                     "vt": 0,
-                                    "vv": 206412
+                                    "vv": 206420
                                 },
                                 "dynamic": "",
                                 "dimension": {
@@ -3320,7 +3320,7 @@
                                 },
                                 "stat": {
                                     "aid": 116038624614167,
-                                    "view": 190793,
+                                    "view": 190797,
                                     "danmaku": 192,
                                     "reply": 278,
                                     "fav": 1411,
@@ -3333,7 +3333,7 @@
                                     "evaluation": "",
                                     "argue_msg": "",
                                     "vt": 0,
-                                    "vv": 190793
+                                    "vv": 190797
                                 },
                                 "dynamic": "",
                                 "dimension": {
@@ -3425,7 +3425,7 @@
                                 },
                                 "stat": {
                                     "aid": 116248155263369,
-                                    "view": 179094,
+                                    "view": 179104,
                                     "danmaku": 1453,
                                     "reply": 828,
                                     "fav": 1956,
@@ -3438,7 +3438,7 @@
                                     "evaluation": "",
                                     "argue_msg": "",
                                     "vt": 0,
-                                    "vv": 179094
+                                    "vv": 179104
                                 },
                                 "dynamic": "",
                                 "dimension": {
@@ -3530,20 +3530,20 @@
                                 },
                                 "stat": {
                                     "aid": 116431765116220,
-                                    "view": 154502,
+                                    "view": 154535,
                                     "danmaku": 304,
                                     "reply": 274,
-                                    "fav": 1246,
+                                    "fav": 1247,
                                     "coin": 540,
                                     "share": 130,
                                     "now_rank": 0,
                                     "his_rank": 0,
-                                    "like": 5998,
+                                    "like": 5999,
                                     "dislike": 0,
                                     "evaluation": "",
                                     "argue_msg": "",
                                     "vt": 0,
-                                    "vv": 154502
+                                    "vv": 154535
                                 },
                                 "dynamic": "",
                                 "dimension": {
@@ -3635,20 +3635,20 @@
                                 },
                                 "stat": {
                                     "aid": 116446394913948,
-                                    "view": 92122,
+                                    "view": 92148,
                                     "danmaku": 445,
                                     "reply": 226,
-                                    "fav": 734,
+                                    "fav": 735,
                                     "coin": 227,
                                     "share": 89,
                                     "now_rank": 0,
                                     "his_rank": 0,
-                                    "like": 3724,
+                                    "like": 3730,
                                     "dislike": 0,
                                     "evaluation": "",
                                     "argue_msg": "",
                                     "vt": 0,
-                                    "vv": 92122
+                                    "vv": 92148
                                 },
                                 "dynamic": "",
                                 "dimension": {
@@ -3740,20 +3740,20 @@
                                 },
                                 "stat": {
                                     "aid": 116470268960231,
-                                    "view": 535404,
+                                    "view": 535448,
                                     "danmaku": 1178,
                                     "reply": 1462,
-                                    "fav": 4396,
+                                    "fav": 4397,
                                     "coin": 1147,
                                     "share": 977,
                                     "now_rank": 0,
                                     "his_rank": 0,
-                                    "like": 17899,
+                                    "like": 17900,
                                     "dislike": 0,
                                     "evaluation": "",
                                     "argue_msg": "",
                                     "vt": 0,
-                                    "vv": 535404
+                                    "vv": 535448
                                 },
                                 "dynamic": "",
                                 "dimension": {
@@ -3845,10 +3845,10 @@
                                 },
                                 "stat": {
                                     "aid": 116463507676501,
-                                    "view": 188686,
+                                    "view": 188762,
                                     "danmaku": 524,
                                     "reply": 636,
-                                    "fav": 1475,
+                                    "fav": 1477,
                                     "coin": 383,
                                     "share": 147,
                                     "now_rank": 0,
@@ -3858,7 +3858,7 @@
                                     "evaluation": "",
                                     "argue_msg": "",
                                     "vt": 0,
-                                    "vv": 188686
+                                    "vv": 188762
                                 },
                                 "dynamic": "",
                                 "dimension": {
@@ -3950,10 +3950,10 @@
                                 },
                                 "stat": {
                                     "aid": 116492884580339,
-                                    "view": 139074,
+                                    "view": 139231,
                                     "danmaku": 355,
                                     "reply": 210,
-                                    "fav": 1263,
+                                    "fav": 1265,
                                     "coin": 345,
                                     "share": 94,
                                     "now_rank": 0,
@@ -3963,7 +3963,7 @@
                                     "evaluation": "",
                                     "argue_msg": "",
                                     "vt": 0,
-                                    "vv": 139074
+                                    "vv": 139231
                                 },
                                 "dynamic": "",
                                 "dimension": {
@@ -4055,20 +4055,20 @@
                                 },
                                 "stat": {
                                     "aid": 116571972574050,
-                                    "view": 111337,
-                                    "danmaku": 345,
-                                    "reply": 248,
-                                    "fav": 1709,
-                                    "coin": 902,
-                                    "share": 309,
+                                    "view": 127370,
+                                    "danmaku": 378,
+                                    "reply": 262,
+                                    "fav": 1894,
+                                    "coin": 977,
+                                    "share": 328,
                                     "now_rank": 0,
                                     "his_rank": 0,
-                                    "like": 5411,
+                                    "like": 5854,
                                     "dislike": 0,
                                     "evaluation": "",
                                     "argue_msg": "",
                                     "vt": 0,
-                                    "vv": 111337
+                                    "vv": 127370
                                 },
                                 "dynamic": "",
                                 "dimension": {
@@ -4122,15 +4122,15 @@
             ],
             "stat": {
                 "season_id": 4239361,
-                "view": 11816444,
-                "danmaku": 58622,
-                "reply": 36840,
-                "fav": 90758,
-                "coin": 68828,
-                "share": 23476,
+                "view": 11833433,
+                "danmaku": 58655,
+                "reply": 36854,
+                "fav": 90953,
+                "coin": 68903,
+                "share": 23495,
                 "now_rank": 0,
                 "his_rank": 0,
-                "like": 388694,
+                "like": 389141,
                 "vt": 0,
                 "vv": 0
             },
