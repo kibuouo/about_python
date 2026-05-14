@@ -10,8 +10,8 @@ params = {
     "plat": 1,
     "seek_rpid": "",
     "web_location": 1315875,
-    "w_rid": "174d2856c79a09ea69a8661beeb88aba",
-    "wts": 1778780003
+    "w_rid": "174d2856c79a09ea69a8661beeb88aba",#时间戳签名
+    "wts": "1778780003"#时间戳
 }
 
 headers = {

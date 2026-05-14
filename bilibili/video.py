@@ -1,32 +1,15 @@
 import requests
 import json
-url = "https://api.bilibili.com/x/web-interface/view"
+url = "https://api.bilibili.com/x/web-interface/popular"
 
 params = {
-    "bvid": "BV1D1596gEiW"  # 换成真实 BV 号
+    "pn": 1,
+    "ps": 20
 }
-
 headers = {
-    "User-Agent": "Mozilla/5.0"
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
 }
-
 response = requests.get(url, params=params, headers=headers)
-
 data = response.json()
-
-with open("bilibili/video.json", "w", encoding="utf-8") as f:
+with open("bilibili/popular_videos.json", "w", encoding="utf-8") as f:
     json.dump(data, f, ensure_ascii=False, indent=4)
-
-#print(data)
-
-print(data["code"])
-print(data["message"])
-
-video = data["data"]
-
-print("标题：", video["title"])
-print("UP主：", video["owner"]["name"])
-print("播放量：", video["stat"]["view"])
-print("点赞：", video["stat"]["like"])
-print("投币：", video["stat"]["coin"])
-print("收藏：", video["stat"]["favorite"])
