@@ -60,13 +60,17 @@ def analyze_video_data(video_info):
     top10=df.sort_values(by="点赞率", ascending=False).head(10)[[ "标题", "作者","点赞率显示"]]
     logging.info(top10)
 def plot_video_data(video_info):
+    # 解决中文乱码
+    plt.rcParams["font.sans-serif"] = ["Microsoft YaHei"]
+    plt.rcParams["axes.unicode_minus"] = False
     df = pd.DataFrame(video_info)
-    top10=df.sort_values(by="播放量", ascending=False).head(10)
-    plt.figure(figsize=(10, 5))#设置图表大小
-    plt.barh(top10["标题"], top10["播放量"], color="skyblue",encoding="utf-8")#水平条形图，设置颜色和编码
-    plt.xlabel("播放量")
-    plt.title("B站热门视频播放量前10")
-    plt.gca().invert_yaxis()#反转y轴，使播放量最高的视频显示在顶部
+    top10 = df.sort_values(by="播放量", ascending=False).head(10).copy()
+    plt.figure(figsize=(12, 6))
+    top10["标题简短"] = top10["标题"].str.slice(0, 6)
+    plt.bar(top10["标题简短"], top10["播放量"])#绘制柱状图，x轴为视频标题，y轴为播放量
+    plt.ylabel("播放量")
+    plt.title("B站热门视频播放量前10")#设置图表标题
+    plt.ticklabel_format(style="plain", axis="y")
     plt.show()
 if __name__ == "__main__":
     videos = get_popular_videos()#获取热门视频数据
