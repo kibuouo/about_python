@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>B站热门视频</title>
+</head>
+<body>
+    <h1>B站热门视频数据</h1>
+
+    <table border="1">
+        <thead>
+            <tr>
+                <th>排名</th>
+                <th>标题</th>
+                <th>UP主</th>
+                <th>播放量</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            {% for video in videos %}
+            <tr>
+                <td>{{ loop.index }}</td>
+                <td>{{ video.title }}</td>
+                <td>{{ video.author }}</td>
+                <td>{{ video.view }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</body>
+</html>
